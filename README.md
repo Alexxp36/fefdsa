@@ -51,7 +51,7 @@ Una vez desplegado el stack, se puede acceder a las distintas interfaces a trav�
 
 
 
-## 🛠️ Comandos Útiles de Gestión
+## Comandos Útiles de Gestión
 Para administrar el ciclo de vida del stack, se pueden utilizar los siguientes comandos:
 
 * **Ver logs de un servicio:** `docker service logs techretail_backend`
@@ -59,9 +59,5 @@ Para administrar el ciclo de vida del stack, se pueden utilizar los siguientes c
 * **Eliminar el secreto:** `docker secret rm db_password`
 * **Salir del modo Swarm:** `docker swarm leave --force`
 
-## 👥 Autores
-Proyecto desarrollado para el curso de **Arquitectura de Microservicios**:
 
-* **Jamir Venturo Perez** - [GitHub Jamir](https://github.com/jamirventuro)
-* **Kevin Flores Trejo** - [GitHub Kevin](https://github.com/kevinflores)
 
